@@ -1,6 +1,6 @@
 # Dynamic Mode Decomposition with control for Forced Component Estimation Statistical Method Intercomparison
 
-This repository contains implementations of **Dynamic Mode Decomposition with control (DMDc)**–based methods designed to estimate the **forced response from a single climate realization**. These methods were developed and applied within Tiers 2 and 3 of the Forced Component Estimation Statistical Method Intercomparison Project (ForceSMIP).
+This repository contains implementations of **Dynamic Mode Decomposition with control (DMDc)**–based methods designed to estimate the **forced response from a single climate realization**. These methods were applied within Tiers 2 and 3 of the Forced Component Estimation Statistical Method Intercomparison Project (ForceSMIP).
 
 The repository provides reproducible workflows for estimating forced components and evaluating their performance. A demonstration of basic evaluation results is available in the notebook [demo_evaluation_results.ipynb](demo_evaluation_results.ipynb).
 
