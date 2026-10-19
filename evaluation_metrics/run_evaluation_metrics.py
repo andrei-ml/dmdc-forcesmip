@@ -8,13 +8,13 @@ variables={
 method_folders=[
     '../DMDc',
     '../DMDc-opt',
-#    '../DMDc-p',
+    '../PullbackDMDc',
 #    '../LR-Forcing',
 ]
 method_names=[
     'DMDc',
     'DMDc-opt',    
-#    'DMDc-p',
+    'PullbackDMDc',
 #    'LR-Forcing'
 ]
 
