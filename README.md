@@ -11,7 +11,7 @@ The repository provides reproducible workflows for estimating forced components 
 The following DMDc-based approaches are implemented:
 
 - **DMDc**  
-  Estimates the forced component as the sum of the **least-damped DMD mode** and the **linear response to the external forcing**.
+  Estimates the forced component as the sum of the **least-damped DMD mode** and the **linear response to the external forcing**. This method was also applied to the Tier 1 of ForceSMIP ([Wills et al., 2026](https://doi.org/10.1175/JCLI-D-25-0326.1)).
 
 - **DMDc-opt**  
   Estimates the forced component using an **optimal perturbation pattern**, derived from the evolution operator that jointly governs the climate variable and the forcing signal.
